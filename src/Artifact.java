@@ -1,6 +1,6 @@
 public class Artifact {
     String name;
-    String secondName;
+    String secondFullName;
     int age;
     int year;
     // Артифакт о котором извесно лиш его номер.
