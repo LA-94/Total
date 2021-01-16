@@ -23,9 +23,9 @@ public class Artifact {
             Artifact kosmos = new Artifact("Ацтеки", 2010);
             Artifact luna = new Artifact("Ацтеки", 3010, 12);
             System.out.print("В музее хранятся 3 Артифакта древности.");
+            System.out.print("В музее хранятся 3 Артифакта древности.");
             System.out.print("О первом Артифакте нам извесно. Номер Артифакта - " + zara.age + ".");
             System.out.print("О втором Артифакте нам извесно. Культура где был создан этот Артифакт - " + kosmos.name + ". Номер Артифакта - " + kosmos.age + ".");
-            System.out.print("О третьем Артифакте нам извесно. Культура где был создан этот артифакт - " + luna.name + ". Номер Артифакта - " + luna.age + ". Век Артифакта - " + luna.year + ".");
         }
         }
 
